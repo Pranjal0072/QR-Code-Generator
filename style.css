@@ -95,7 +95,7 @@ body{
     border-radius: var(--border-radius);
 }
 
-@media screen and (max-width:520px){
+@media screen and (max-width:400px){
     .box{
         width: 80%;
     }
